@@ -1,0 +1,11 @@
+2025-04-19 22:42:29,664 - DEBUG - debug
+2025-04-19 22:42:29,664 - INFO - info
+2025-04-19 22:42:29,664 - WARNING - warning
+2025-04-19 22:42:29,664 - ERROR - error
+2025-04-19 22:42:29,664 - CRITICAL - critical
+2025-04-19 22:42:29,664 - ERROR - Error: division by zero
+Traceback (most recent call last):
+  File "c:\Users\ASUS\Desktop\cursor projects\testing things\playground\logging\main.py", line 28, in <module>
+    1/ 0
+    ~^~~
+ZeroDivisionError: division by zero
